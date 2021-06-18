@@ -8,6 +8,6 @@ Pemrograman WEB
 Sistem Informasi
 Dr. Eng. Agussalim, M.T.
 
-Nama Kelompok : 
+Nama Kelompok : <br>
 Rico Satria Fandi (19082010104) <br>
 Muhammad RIzki Erlangga Putra (19082010086)
