@@ -10,4 +10,6 @@ Dr. Eng. Agussalim, M.T.
 
 Nama Kelompok : <br>
 Rico Satria Fandi (19082010104) <br>
-Muhammad RIzki Erlangga Putra (19082010086)
+Muhammad RIzki Erlangga Putra (19082010086) <br>
+<br>
+https://s1mesports.000webhostapp.com/
