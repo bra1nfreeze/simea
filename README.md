@@ -12,4 +12,5 @@ Nama Kelompok : <br>
 Rico Satria Fandi (19082010104) <br>
 Muhammad RIzki Erlangga Putra (19082010086) <br>
 <br>
+<b>Link Web:</b>
 https://s1mesports.000webhostapp.com/
